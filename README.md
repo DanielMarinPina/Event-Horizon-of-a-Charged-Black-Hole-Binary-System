@@ -4,4 +4,4 @@ This repository contains the auxiliary files for the paper "Event Horizon of a C
 ##
 Link to the paper: TBD
 
-Authors: M. Orselli, D. Pica, D. Marín Pina
+Authors: D. Marín Pina (danielmarin@icc.ub.edu), M. Orselli (orselli@nbi.dk), D. Pica (daniele.pica@studenti.unipg.it)
